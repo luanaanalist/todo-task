@@ -1,0 +1,10 @@
+/src/ToDoApp.Api/obj
+/src/ToDoApp.Api/bin
+/src/ToDoApp.Application/obj
+/src/ToDoApp.Application/bin
+/src/ToDoApp.Domain/obj
+/src/ToDoApp.Domain/bin
+/src/ToDoApp.Infrastructure/bin
+/src/ToDoApp.Infrastructure/obj
+/src/ToDoApp.IoC/bin
+/src/ToDoApp.IoC/obj
